@@ -1,3 +1,3 @@
 # nodemcu-web-ide-libraries
 
-This library is for my own use, you may use it but your on your own as to how and why.
+These files are for my own use, you may use it but your on your own as to how and why.
